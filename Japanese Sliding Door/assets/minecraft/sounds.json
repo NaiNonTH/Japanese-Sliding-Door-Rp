@@ -1,0 +1,13 @@
+{
+	"block.wooden_door.open": {
+		"replace": true,
+		"sounds": [ "block/wooden_door/open" ]
+	},
+	"block.wooden_door.close": {
+		"replace": true,
+		"sounds": [
+			"block/wooden_door/close",
+			"block/wooden_door/close2"
+		]
+	}
+}
